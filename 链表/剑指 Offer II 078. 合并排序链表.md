@@ -3,7 +3,7 @@
 
 https://leetcode.cn/problems/vvXgSW/
 
-主要运用分治法优化
+# 解法1：结合分治法
 
 ## 遇到的问题
 看答案代码之后，抄写下来，运行时发现超时，对了好几遍答案，发现不了错的地方。最后发现是把字母l写成了1。吸取教训。
@@ -53,3 +53,41 @@ class Solution {
 
 ```
 ## 复杂度分析
+![image](https://user-images.githubusercontent.com/83968454/192903577-5f37d4c7-9557-4c84-a9c1-f29c35987655.png)
+
+# 解法2，for循环
+```Java
+class Solution {
+    public ListNode mergeKLists(ListNode[] lists) {
+        ListNode ans = null;
+        for (int i = 0; i < lists.length; ++i) {
+            ans = mergeTwoLists(ans, lists[i]);
+        }
+        return ans;
+    }
+
+    public ListNode mergeTwoLists(ListNode a, ListNode b) {
+        if (a == null || b == null) {
+            return a != null ? a : b;
+        }
+        ListNode head = new ListNode(0);
+        ListNode tail = head, aPtr = a, bPtr = b;
+        while (aPtr != null && bPtr != null) {
+            if (aPtr.val < bPtr.val) {
+                tail.next = aPtr;
+                aPtr = aPtr.next;
+            } else {
+                tail.next = bPtr;
+                bPtr = bPtr.next;
+            }
+            tail = tail.next;
+        }
+        tail.next = (aPtr != null ? aPtr : bPtr);
+        return head.next;
+    }
+}
+
+
+```
+### 复杂度分析
+![image](https://user-images.githubusercontent.com/83968454/192903790-a4951af8-2542-4d36-bc4d-6d483ec6362e.png)
