@@ -15,7 +15,7 @@ class Solution {
     }
     public ListNode merge(ListNode[] lists,int l,int r){
         if(l==r){
-            //运行超时但是找不出原因，发现是把l写成了1！！
+            //运行超时但是找不出原因，发现是把l写成了1！！<-----------------------------------------------------细节问题
             return lists[l];
         } 
         if(l>r){
