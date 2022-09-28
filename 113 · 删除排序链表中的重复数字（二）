@@ -1,0 +1,73 @@
+描述
+给定一个排序链表，删除所有重复的元素，只留下原链表中没有重复的元素。
+样例 1：
+输入：
+linked list = null
+输出：
+null
+解释：
+空链表返回null
+样例 2：
+输入：
+linked list = 1->2->3->3->4->4->5->null
+输出:
+1->2->5->null
+解释：
+删除所有3和4
+样例 3：
+输入：
+linked list = 1->1->1->2->3->null
+输出：
+2->3->null
+解释：
+删除所有1
+
+```Java
+/**
+ * Definition for ListNode
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) {
+ *         val = x;
+ *         next = null;
+ *     }
+ * }
+ */
+
+public class Solution {
+    /**
+     * @param head: head is the head of the linked list
+     * @return: head of the linked list
+     */
+    public ListNode deleteDuplicates(ListNode head) {
+        //很重要，每次忘记
+        
+        if(head==null||head.next==null)return head;
+        ListNode dummyNode = new ListNode(0);
+        dummyNode.next=head;
+        ListNode pre = dummyNode;
+        //while每次忘记判断.next!=null
+        while(head!=null){
+            //**要访问head.next.val时，要加一个判断head.next!=null
+            if(head.next!=null&&head.val==head.next.val){
+                //若有重复元素，head向后继续找有无更多重复元素，pre结点不动
+                //**要访问head.next.val时，要加一个判断head.next!=null
+                while(head.next!=null&&head.val==head.next.val){
+                    head=head.next;
+                }
+                //结束时pre和head指向的位置
+                // 1   2   2   3
+                // |       |   
+                //pre     head
+                head=head.next;
+                pre.next=head;
+            }else{
+                pre=pre.next;
+                head=head.next;
+            }
+        }
+        return dummyNode.next;
+    }
+}
+```
