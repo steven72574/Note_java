@@ -14,6 +14,12 @@ BFS缺点，当树的结构是矮胖时（即深度不深，但是子节点非�
 2.输出每一层的节点
 ![image](https://user-images.githubusercontent.com/83968454/193357994-37a5452d-80b5-4054-a2b5-e1edae10c466.png)
 
+## 练习题
+![image](https://user-images.githubusercontent.com/83968454/193360842-d90f1b45-a807-44e7-97e7-c3ac3f10a5d2.png)
+## 代码
+![image](https://user-images.githubusercontent.com/83968454/193360935-6cfcc309-b344-4b9c-ae65-d6676be56609.png)
+
+
 
 
 
