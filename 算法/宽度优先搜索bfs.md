@@ -3,6 +3,8 @@ DFS采用递归时，使用的是栈空间，如果树或图的深度很深，�
 
 BFS缺点，当树的结构是矮胖时（即深度不深，但是子节点非常多），此时BFS遍历则会占用大量空间。
 
+Java 建议使用ArrayDeque 不建议 LinkedList 作为Queue。
+
 
 ## 题目
 https://leetcode.cn/problems/max-area-of-island/
