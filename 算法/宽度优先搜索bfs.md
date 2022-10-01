@@ -18,7 +18,7 @@ DFS是找路径，bfs是找点.而找路径的时间复杂度就达到指数级�
 ## 题目
 https://leetcode.cn/problems/max-area-of-island/
 ## BFS模板
-### 注意点：在遍历时要创建一个hashset，记录已经访问过的节点，避免死循环
+### 注意点：在遍历时要创建一个hashset，记录已经访问过的节点，避免死循环(用数组来记录也是很好的一个方法)
 ![image](https://user-images.githubusercontent.com/83968454/193339423-1da6ed0a-2a9b-49f2-865d-3c6ab0320d8b.png)
 ### 要注意的是
 在构建哈希集合hashset来记录访问过的节点时，对于数组或者类这些数据结构，哈希集合是不能有效去重，即使放进去的数组的值是相等的。因为这个时候哈希集合存放的是内存的地址。如下图，返回的值是false
