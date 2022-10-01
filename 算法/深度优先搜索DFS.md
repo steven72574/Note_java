@@ -25,6 +25,7 @@
 
 ## 题目
 电话号码的数字组合 leetcode17
+![WeChat Screenshot_20221001202847](https://user-images.githubusercontent.com/83968454/193423219-9342d5c4-466c-43ca-b009-d615d9f77e42.png)
 
 https://leetcode.cn/problems/permutations-ii/
 
