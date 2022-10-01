@@ -5,6 +5,8 @@ BFS缺点，当树的结构是矮胖时（即深度不深，但是子节点非�
 
 Java 建议使用ArrayDeque 不建议 LinkedList 作为Queue。
 
+DFS是找路径，bfs是找点.而找路径的时间复杂度就达到指数级别，高很多。
+
 
 ## 题目
 https://leetcode.cn/problems/max-area-of-island/
