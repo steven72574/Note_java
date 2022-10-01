@@ -6,6 +6,7 @@
 使用递归实现dfs时避免使用全局的变量path ,visited，确保函数的封装性，避免bug。
 
 ![image](https://user-images.githubusercontent.com/83968454/193417979-d801d707-363d-4094-b091-49de59aa5716.png)
+![image](https://user-images.githubusercontent.com/83968454/193418084-a2a86abc-546c-4a34-ab04-46f7c88ce12a.png)
 
 
 
