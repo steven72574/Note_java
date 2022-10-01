@@ -26,3 +26,5 @@
 ## 题目
 https://leetcode.cn/problems/permutations-ii/
 
+### 帮助理解的
+![WeChat Screenshot_20221001201332](https://user-images.githubusercontent.com/83968454/193422692-faa53387-bea7-4bfd-9980-43efa335f816.png)
