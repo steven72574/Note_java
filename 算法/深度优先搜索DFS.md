@@ -5,6 +5,8 @@
 ## 注意点
 使用递归实现dfs时避免使用全局的变量path ,visited，确保函数的封装性，避免bug。
 
+## 去重
+搜索和去重基本上是同时出现的，最好的去重办法是在构造树的时候就把重复的方案去掉，减少后续遍历的时候的时间花费。
 ![image](https://user-images.githubusercontent.com/83968454/193417979-d801d707-363d-4094-b091-49de59aa5716.png)
 ![image](https://user-images.githubusercontent.com/83968454/193418084-a2a86abc-546c-4a34-ab04-46f7c88ce12a.png)
 
