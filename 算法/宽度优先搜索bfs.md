@@ -8,7 +8,8 @@ Java 建议使用ArrayDeque 不建议 LinkedList 作为Queue。
 DFS是找路径，bfs是找点.而找路径的时间复杂度就达到指数级别，高很多。
 
 对于一个n*n的矩阵来说，DFS的空间复杂度可能到达O(n^2)级别（下图左），而BFS则是O(n^1/2)（下图右），即对角线
-![image](https://user-images.githubusercontent.com/83968454/193414089-4995038e-0c71-408a-8e97-135e65e390c7.png)
+![image](https://user-images.githubusercontent.com/83968454/193414193-6599d2b3-0685-4eae-ad03-eb44ac88c257.png)
+
 
 
 
