@@ -2,6 +2,10 @@
 DFS采用递归时，使用的是栈空间，如果树或图的深度很深，则可能出现栈溢出，而BFS采用的是队列，使用堆空间，则不会出现这种情况
 
 BFS缺点，当树的结构是矮胖时（即深度不深，但是子节点非常多），此时BFS遍历则会占用大量空间。
+
+要注意的是，在构建哈希集合hashset来记录访问过的节点时，对于数组或者类这些数据结构，哈希集合是不能有效去重，即使放进去的数组的值是相等的。因为这个时候哈希集合存放的是内存的地址。如下图，返回的值是false
+![image](https://user-images.githubusercontent.com/83968454/193410941-2a8fc0a1-1bee-41d5-a8be-edb795f10daf.png)
+
 ## 题目
 https://leetcode.cn/problems/max-area-of-island/
 ## BFS模板
