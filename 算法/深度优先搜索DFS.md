@@ -24,10 +24,12 @@
 ![image](https://user-images.githubusercontent.com/83968454/193418084-a2a86abc-546c-4a34-ab04-46f7c88ce12a.png)
 
 ## 题目
-电话号码的数字组合 leetcode17
+电话号码的数字组合 leetcode17  
 ![WeChat Screenshot_20221001202847](https://user-images.githubusercontent.com/83968454/193423219-9342d5c4-466c-43ca-b009-d615d9f77e42.png)
-https://leetcode.cn/problems/max-area-of-island/
-https://leetcode.cn/problems/permutations-ii/
+https://leetcode.cn/problems/max-area-of-island/  
+https://leetcode.cn/problems/permutations-ii/  
+### K数和
+https://lintcode.com/problem/90  
 
 ### 帮助理解的
 ![WeChat Screenshot_20221001201332](https://user-images.githubusercontent.com/83968454/193422692-faa53387-bea7-4bfd-9980-43efa335f816.png)
