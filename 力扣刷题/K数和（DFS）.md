@@ -1,5 +1,7 @@
 ## K数和
 https://lintcode.com/problem/90
+![image](https://user-images.githubusercontent.com/83968454/193460655-ac88770a-3b23-4f12-a98b-17838016205f.png)
+
 ```java
 public class Solution {
     /**
