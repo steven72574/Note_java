@@ -1,8 +1,8 @@
 # 快速选择
 方便用于找中位数，找第k大的数，好处是比先排序再找时间复杂度来的要低
 
-https://leetcode.cn/problems/xx4gT2/
-https://leetcode.cn/problems/kth-largest-element-in-an-array/
+https://leetcode.cn/problems/xx4gT2/  
+https://leetcode.cn/problems/kth-largest-element-in-an-array/  
 
 ### 对比快速排序
 
