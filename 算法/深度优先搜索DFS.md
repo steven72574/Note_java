@@ -25,6 +25,9 @@
 ![image](https://user-images.githubusercontent.com/83968454/193418084-a2a86abc-546c-4a34-ab04-46f7c88ce12a.png)
 
 ## 题目
+单词搜索  （推荐）
+https://www.lintcode.com/problem/123/
+
 ### 组合题
 ### 排列题
 https://lintcode.com/problrm/15
