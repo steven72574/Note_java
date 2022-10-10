@@ -26,7 +26,10 @@
 
 ## 题目
 单词搜索  （推荐）
-https://www.lintcode.com/problem/123/
+https://www.lintcode.com/problem/123/  
+单词搜索II
+https://www.lintcode.com/problem/132/  
+
 
 ### 组合题
 ### 排列题
