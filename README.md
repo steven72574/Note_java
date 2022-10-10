@@ -2,7 +2,7 @@
 java刷题笔记
 ![WeChat Screenshot_20221010112117](https://user-images.githubusercontent.com/83968454/194834895-9dc0fa7e-c85b-4bf7-8261-5d35f1da6f61.png)
 ![image](https://user-images.githubusercontent.com/83968454/194835360-8300f58e-881a-4028-b073-541947e3c9d1.png)
-![image](https://user-images.githubusercontent.com/83968454/194922493-a17f19f1-8b9a-4d7f-94bd-ce6f24831bd4.png)
+
 
 ## 考点排名
 拓扑算法/BFS  
