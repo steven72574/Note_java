@@ -38,6 +38,9 @@ https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/submission
 https://leetcode.cn/problems/3sum/  
 18.四数之和  
 https://leetcode.cn/problems/4sum/  
-### 10.12
-看了动态规划视频
-(未做：数字三角形用动态规划实现一下)
+### 10.12  
+看了动态规划视频  
+(未做：数字三角形用动态规划实现一下)  
+114.不同路径(lintcode)  
+lintcode.com/problem/114  
+
