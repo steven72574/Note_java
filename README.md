@@ -15,14 +15,15 @@ DFS
 分治法  
 动态规划  
 ## 做的题以及日期
-2022.10.10  
+### 2022
+### 10.10  
 98.验证二叉搜索树  
 https://leetcode.cn/problems/validate-binary-search-tree/  
 450.删除二叉搜索树的节点（未完全理解）  
 https://leetcode.cn/problems/delete-node-in-a-bst/solution/shan-chu-er-cha-sou-suo-shu-zhong-de-jie-n6vo/  
 173.二叉搜索树迭代器  
 https://leetcode.cn/problems/binary-search-tree-iterator/submissions/  
-10.11  
+### 10.11  
 5.最长回文子串  
 https://leetcode.cn/problems/longest-palindromic-substring/submissions/   
 9.回文数  
@@ -37,3 +38,6 @@ https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/submission
 https://leetcode.cn/problems/3sum/  
 18.四数之和  
 https://leetcode.cn/problems/4sum/  
+### 10.12
+看了动态规划视频
+(未做：数字三角形用动态规划实现一下)
