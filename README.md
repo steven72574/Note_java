@@ -56,6 +56,23 @@ https://leetcode.cn/problems/4sum/
 114.不同路径(lintcode)  
 lintcode.com/problem/114  
 ### 10.13
-新信息：华为面试中，动态规划考的比较少。可以暂时跳过
-双指针：三角形个数，没太明白。
-
+新信息：华为面试中，动态规划考的比较少。可以暂时跳过  
+双指针：三角形个数，没太明白。  
+复习了下面的题目
+77.组合
+https://leetcode.cn/problems/combinations/
+46.全排列
+https://leetcode.cn/problems/permutations/
+47.全排列II
+https://leetcode.cn/problems/permutations-ii/
+新题
+39.组合总和
+https://leetcode.cn/problems/combination-sum/
+78.子集
+https://leetcode.cn/problems/subsets/
+90.子集II
+https://leetcode.cn/problems/subsets-ii/
+去重心得：去重前先排序。常用去重方法
+```java
+if(i>0 && nums[i] == nums[i-1] && !visited[i-1]) continue;
+```
