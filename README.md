@@ -42,6 +42,7 @@ https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/submission
 https://leetcode.cn/problems/3sum/  
 18.四数之和  
 https://leetcode.cn/problems/4sum/  
+976.四数之和变形LintCode（四个数在不同数组中，求四数之和为0的方案数量）
 ### 10.12  
 看了动态规划视频  
 (未做：数字三角形用动态规划实现一下)  
