@@ -76,3 +76,4 @@ https://leetcode.cn/problems/subsets-ii/
 ```java
 if(i>0 && nums[i] == nums[i-1] && !visited[i-1]) continue;  
 ```
+看了N皇后问题的视频。没做题
