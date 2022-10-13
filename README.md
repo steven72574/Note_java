@@ -49,4 +49,5 @@ https://leetcode.cn/problems/4sum/
 lintcode.com/problem/114  
 ### 10.13
 新信息：华为面试中，动态规划考的比较少。可以暂时跳过
+双指针：三角形个数，没太明白。
 
