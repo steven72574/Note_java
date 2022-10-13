@@ -43,4 +43,6 @@ https://leetcode.cn/problems/4sum/
 (未做：数字三角形用动态规划实现一下)  
 114.不同路径(lintcode)  
 lintcode.com/problem/114  
+### 10.13
+新信息：华为面试中，动态规划考的比较少。可以暂时跳过
 
