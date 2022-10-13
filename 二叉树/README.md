@@ -1,3 +1,4 @@
+## 基础知识
 子树：一个节点以及其下面所有节点加起来  
 叶子节点也算一个子树  
 有几个节点就有几个子树  
@@ -24,6 +25,12 @@ lintcode.com/problem/474
 ### 练习  
 ![WeChat Screenshot_20221003225746](https://user-images.githubusercontent.com/83968454/193681178-e0fd8673-bfc5-4632-9d8a-e759fc9457d6.png)
 
+### 二叉树序列化
+使用场景  
+1.把内存中数据存储到硬盘中  
+2.网络传输时  
+例子  
+![WeChat Screenshot_20221013234435](https://user-images.githubusercontent.com/83968454/195716801-a7e25cdd-31e5-4a43-826e-2347f5272eb5.png)
 
 ## 红黑树
 红黑树是一个平衡的BST
