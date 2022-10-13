@@ -2,7 +2,11 @@
 java刷题笔记
 ![WeChat Screenshot_20221010112117](https://user-images.githubusercontent.com/83968454/194834895-9dc0fa7e-c85b-4bf7-8261-5d35f1da6f61.png)
 ![image](https://user-images.githubusercontent.com/83968454/194835360-8300f58e-881a-4028-b073-541947e3c9d1.png)
-
+## 编程好习惯
+访问数组之前进行下标检测，如  
+```java
+if( i>=2 && nums[i-2]>0)
+```
 
 ## 考点排名
 拓扑算法/BFS  
