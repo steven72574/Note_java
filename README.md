@@ -77,3 +77,8 @@ https://leetcode.cn/problems/subsets-ii/
 if(i>0 && nums[i] == nums[i-1] && !visited[i-1]) continue;  
 ```
 看了N皇后问题的视频。没做题
+### 10.14
+112.路径总和
+https://leetcode.cn/problems/path-sum/
+104.二叉树最大深度
+https://leetcode.cn/problems/maximum-depth-of-binary-tree/
