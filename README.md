@@ -82,6 +82,8 @@ if(i>0 && nums[i] == nums[i-1] && !visited[i-1]) continue;
 https://leetcode.cn/problems/path-sum/  
 104.二叉树最大深度  
 https://leetcode.cn/problems/maximum-depth-of-binary-tree/  
-10.15  
+### 10.15  
 314.二叉树的垂序遍历(bug_free,一遍写出，大约30min)  
 https://leetcode.cn/problems/binary-tree-vertical-order-traversal/  
+490.迷宫（没做，早上做一下）
+https://leetcode.cn/problems/the-maze/
