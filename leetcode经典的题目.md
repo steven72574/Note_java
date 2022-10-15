@@ -18,7 +18,7 @@ Leetcode 215. Kth Largest Element （可以用堆的解法替代）
 Leetcode 4. Median of Two Sorted Arrays  
 注意：后两题是与快速排序非常相似的快速选择（Quick Select）算法，面试中很常考  
 
-链表类（Linked List）： 
+### 链表类（Linked List）： 
 
 基础知识：链表如何实现，如何遍历链表。链表可以保证头部尾部插入删除操作都是O（1），查找任意元素位置O（N）
 基础题目：
@@ -31,7 +31,7 @@ Leetcode 160. Intersection of Two Linked Lists
 Leetcode 141. Linked List Cycle (Linked List Cycle II)  
 Leetcode 92. Reverse Linked List II  
 Leetcode 328. Odd Even Linked List  
-堆（Heap or Priority Queue）、栈（Stack）、队列（Queue）、哈希表类（Hashmap、Hashset）：
+### 堆（Heap or Priority Queue）、栈（Stack）、队列（Queue）、哈希表类（Hashmap、Hashset）：
 
 基础知识：各个数据结构的基本原理，增删查改复杂度。
 ### Queue题目：
@@ -77,7 +77,7 @@ Leetcode 895. Maximum Frequency Stack
 ### 二分法（Binary Search）： 
 
 基础知识：二分法是用来解法基本模板，时间复杂度logN；常见的二分法题目可以分为两大类，显式与隐式，即是否能从字面上一眼看出二分法的特点：要查找的数据是否可以分为两部分，前半部分为X，后半部分为O  
-### 显式二分法： 
+显式二分法： 
 Leetcode 34. Find First and Last Position of Element in Sorted Array  
 Leetcode 33. Search in Rotated Sorted Array  
 Leetcode 1095. Find in Mountain Array  
@@ -85,7 +85,7 @@ Leetcode 162. Find Peak Element
 Leetcode 278. First Bad Version  
 Leetcode 74. Search a 2D Matrix  
 Leetcode 240. Search a 2D Matrix II  
-### 隐式二分法：  
+隐式二分法：  
 Leetcode 69. Sqrt(x)  
 Leetcode 540. Single Element in a Sorted Array  
 Leetcode 644. Maximum Average Subarray II  
@@ -232,7 +232,7 @@ Leetcode 523 Continuous Subarray Sum
 Leetcode 304 Range Sum Query 2D - Immutable  
 以上内容皆为面试中高频的知识点，以下知识点和题目在面试中属于中等频率（大概面10道题会遇到一次），时间不足的情况下，请以准备上面的知识点为主。  
 
-并查集（Union Find）：把两个或者多个集合合并为一个集合  
+### 并查集（Union Find）：把两个或者多个集合合并为一个集合  
 
 基础知识：如果数据不是实时变化，本类问题可以用BFS或者DFS的方式遍历，如果数据实时变化（data stream）则并查集每次的时间复杂度可以视为O（1）；需要牢记合并与查找两个操作的模板
 常见题目：  
@@ -240,7 +240,7 @@ Leetcode 721 Accounts Merge
 Leetcode 547 Number of Provinces  
 Leetcode 737 Sentence Similarity II  
 Leetcode 305 Number of Islands II  
-字典树（Trie）  
+### 字典树（Trie）  
 
 基础知识：（https://zh.wikipedia.org/wiki/Trie）；多数情况下可以通过用一个set来记录所有单词的prefix来替代，时间复杂度不变，但空间复杂度略高  
 常见题目：  
@@ -249,7 +249,7 @@ Leetcode 211 Design Add and Search Words Data Structure
 Leetcode 1268 Search Suggestions System  
 Leetcode 212 Word Search II  
 Leetcode 1166 Design File System  
-单调栈与单调队列（Monotone Stack／Queue）  
+### 单调栈与单调队列（Monotone Stack／Queue）  
 
 基础知识：单调栈一般用于解决数组中找出每个数字的第一个大于／小于该数字的位置或者数字；单调队列只见过一道题需要使用；不论单调栈还是单调队列，单调的意思是保留在栈或者队列中的数字是单调递增或者单调递减的  
 常见题目：  
@@ -260,7 +260,7 @@ Leetcode 739 Daily Temperatures
 Leetcode 901 Online Stock Span  
 Leetcode 503 Next Greater Element II  
 Leetcode 239 Sliding Window Maximum （唯一的单调队列题）  
-扫描线算法（Sweep Line）  
+### 扫描线算法（Sweep Line）  
 
 基础知识：一个很巧妙的解决时间安排冲突的算法，本身比较容易些也很容易理解  
 常见题目： 
@@ -268,7 +268,7 @@ Leetcode 253 Meeting Room II（Meeting Room I也可以使用）
 Leetcode 1094 Car Pooling  
 Leetcode 218 The Skyline Problem  
 Leetcode 759 Employee Free Time  
-TreeMap  
+### TreeMap  
 
 基础知识：基于红黑树（平衡二叉搜索树）的一种树状 hashmap，增删查改、找求大最小均为logN复杂度，Python当中可以使用SortedDict替代；SortedDict继承了普通的dict全部的方法，除此之外还可以peekitem(k)来找key里面第k大的元素，popitem(k)来删除掉第k大的元素，弥补了Python自带的heapq没法logN时间复杂度内删除某个元素的缺陷；最近又在刷一些hard题目时候突然发现TreeMap简直是个神技，很多用别的数据结构写起来非常麻烦的题目，TreeMap解决起来易如反掌。
 常见题目：
