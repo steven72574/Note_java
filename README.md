@@ -75,13 +75,13 @@ https://leetcode.cn/problems/subsets-ii/
 去重心得：去重前先排序。常用去重方法  
 ```java
 if(i>0 && nums[i] == nums[i-1] && !visited[i-1]) continue;  
-```
-看了N皇后问题的视频。没做题
-### 10.14
-112.路径总和
-https://leetcode.cn/problems/path-sum/
-104.二叉树最大深度
-https://leetcode.cn/problems/maximum-depth-of-binary-tree/
-10.15
-314.二叉树的垂序遍历(bug_free,一遍写出，大约30min)
-https://leetcode.cn/problems/binary-tree-vertical-order-traversal/
+```  
+看了N皇后问题的视频。没做题  
+### 10.14  
+112.路径总和  
+https://leetcode.cn/problems/path-sum/  
+104.二叉树最大深度  
+https://leetcode.cn/problems/maximum-depth-of-binary-tree/  
+10.15  
+314.二叉树的垂序遍历(bug_free,一遍写出，大约30min)  
+https://leetcode.cn/problems/binary-tree-vertical-order-traversal/  
