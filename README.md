@@ -90,3 +90,7 @@ https://leetcode.cn/problems/the-maze/
 ### 10.16  
 200.岛屿数量(dfs，bfs都做了)  
 https://leetcode.cn/problems/number-of-islands/  
+133.克隆图（差点细节） 
+https://leetcode.cn/problems/clone-graph/  
+752.打开转盘锁（看了题）
+https://leetcode.cn/problems/open-the-lock/
