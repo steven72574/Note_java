@@ -95,3 +95,5 @@ https://leetcode.cn/problems/number-of-islands/
 https://leetcode.cn/problems/clone-graph/  
 752.打开转盘锁（看了题）
 https://leetcode.cn/problems/open-the-lock/
+1469.lincode树上最长路径  
+https://www.lintcode.com/problem/1469/
