@@ -85,5 +85,8 @@ https://leetcode.cn/problems/maximum-depth-of-binary-tree/
 ### 10.15  
 314.二叉树的垂序遍历(bug_free,一遍写出，大约30min)  
 https://leetcode.cn/problems/binary-tree-vertical-order-traversal/  
-490.迷宫（没做，早上做一下）
-https://leetcode.cn/problems/the-maze/
+490.迷宫（没做，早上做一下）  
+https://leetcode.cn/problems/the-maze/  
+### 10.16
+200.岛屿数量(dfs做了，bfs没做)
+https://leetcode.cn/problems/number-of-islands/
