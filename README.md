@@ -87,6 +87,6 @@ https://leetcode.cn/problems/maximum-depth-of-binary-tree/
 https://leetcode.cn/problems/binary-tree-vertical-order-traversal/  
 490.迷宫（没做，早上做一下）  
 https://leetcode.cn/problems/the-maze/  
-### 10.16
-200.岛屿数量(dfs做了，bfs没做)
-https://leetcode.cn/problems/number-of-islands/
+### 10.16  
+200.岛屿数量(dfs，bfs都做了)  
+https://leetcode.cn/problems/number-of-islands/  
