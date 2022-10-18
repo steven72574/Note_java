@@ -1,3 +1,4 @@
+![WeChat Screenshot_20221018175322](https://user-images.githubusercontent.com/83968454/196481240-7dcce499-dd71-4732-b971-07ad065b67c2.png)  
 ## BFS vs  DFS
 DFS采用递归时，使用的是栈空间，如果树或图的深度很深，则可能出现栈溢出，而BFS采用的是队列，使用堆空间，则不会出现这种情况
 
