@@ -93,7 +93,7 @@ https://leetcode.cn/problems/number-of-islands/
 处理二维数组小技巧，把（x * maze[0].length + y) 将二维数组转换为integer整数，这样就能存放在Hashmap中。(其中maze是二维数组，x是row索引，从0开始,y是colum索引)  
 133.克隆图（差点细节,要再做一遍） 
 https://leetcode.cn/problems/clone-graph/  
-752.打开转盘锁（看了题）
+752.打开转盘锁（看了题，答案看不太懂，先放着）
 https://leetcode.cn/problems/open-the-lock/  
 1469.lincode树上最长路径  
 https://www.lintcode.com/problem/1469/  
