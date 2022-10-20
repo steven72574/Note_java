@@ -3,6 +3,7 @@ java刷题笔记
 ![WeChat Screenshot_20221010112117](https://user-images.githubusercontent.com/83968454/194834895-9dc0fa7e-c85b-4bf7-8261-5d35f1da6f61.png)
 ![image](https://user-images.githubusercontent.com/83968454/194835360-8300f58e-881a-4028-b073-541947e3c9d1.png)
 ![image](https://user-images.githubusercontent.com/83968454/197073453-0c234cf8-3cea-4e7a-a691-634c82f3deda.png)
+![image](https://user-images.githubusercontent.com/83968454/197073905-0da34a7b-b9ae-4339-a8fa-ff0e25f2a70f.png)
 
 ## 编程好习惯
 访问数组之前进行下标检测，如  
@@ -106,3 +107,6 @@ https://leetcode.cn/problems/pacific-atlantic-water-flow/
 https://leetcode.cn/problems/course-schedule/  
 297.二叉树的序列化与反序列化
 https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/
+### 前缀和（只要题目中出现子数组，大概率可以用前缀和）  
+preFix[i]  定义：前i个数的和（index为i-1），preFix[0] = 0;  
+降维思想：用哈希表将两个for循环降为一个，如两数之和
