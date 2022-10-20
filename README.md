@@ -99,3 +99,8 @@ https://leetcode.cn/problems/open-the-lock/
 https://www.lintcode.com/problem/1469/  
 417.太平洋大西洋水流问题（自己做，正向dfs时间185ms，击败5%。看了题解，自己做，逆向dfs，时间3ms，击败98%）  
 https://leetcode.cn/problems/pacific-atlantic-water-flow/  
+### 10.20
+207.课程表（拓扑排序）  
+https://leetcode.cn/problems/course-schedule/  
+297.二叉树的序列化与反序列化
+https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/
