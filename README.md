@@ -2,6 +2,8 @@
 java刷题笔记
 ![WeChat Screenshot_20221010112117](https://user-images.githubusercontent.com/83968454/194834895-9dc0fa7e-c85b-4bf7-8261-5d35f1da6f61.png)
 ![image](https://user-images.githubusercontent.com/83968454/194835360-8300f58e-881a-4028-b073-541947e3c9d1.png)
+![image](https://user-images.githubusercontent.com/83968454/197073453-0c234cf8-3cea-4e7a-a691-634c82f3deda.png)
+
 ## 编程好习惯
 访问数组之前进行下标检测，如  
 ```java
