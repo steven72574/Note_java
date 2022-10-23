@@ -108,7 +108,23 @@ https://leetcode.cn/problems/pacific-atlantic-water-flow/
 207.课程表（拓扑排序）  
 https://leetcode.cn/problems/course-schedule/  
 297.二叉树的序列化与反序列化
-https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/
+https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/  
+小知识点：
+方法1最快，然后是方法3，方法2最慢
+```java
+//方法1
+StringBuilder sb = new StringBuilder();
+sb.append("string");
+sb.append("another string");
+//方法2
+String s = "string" + "another string";
+//方法3
+StringJoiner sj = new StringJoiner(",");//方法参数StringJoiner(分隔符，前缀符号，后缀符号);
+sj.add(string);
+sj.add("another string");
+sj.toString();// "string,another string"
+```
+
 ### 前缀和（只要题目中出现子数组，大概率可以用前缀和）  
 preFix[i]  定义：前i个数的和（index为i-1），preFix[0] = 0;  
 降维思想：用哈希表将两个for循环降为一个，如两数之和  
