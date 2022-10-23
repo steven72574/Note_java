@@ -111,9 +111,9 @@ https://leetcode.cn/problems/course-schedule/
 https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/
 ### 前缀和（只要题目中出现子数组，大概率可以用前缀和）  
 preFix[i]  定义：前i个数的和（index为i-1），preFix[0] = 0;  
-降维思想：用哈希表将两个for循环降为一个，如两数之和
-560.和为k的子数组
-https://leetcode.cn/problems/subarray-sum-equals-k/
-https://leetcode.cn/problems/QTMn0o/
-53.最大子数组和
-https://leetcode.cn/problems/maximum-subarray/
+降维思想：用哈希表将两个for循环降为一个，如两数之和  
+560.和为k的子数组  
+https://leetcode.cn/problems/subarray-sum-equals-k/  
+https://leetcode.cn/problems/QTMn0o/  
+53.最大子数组和  
+https://leetcode.cn/problems/maximum-subarray/  
