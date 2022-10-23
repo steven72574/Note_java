@@ -138,3 +138,7 @@ https://leetcode.cn/problems/maximum-subarray/
 297.二叉树的序列化与反序列化(BFS和DFS)  
 53.最大子数组和  
 207.课程表  
+15.三数之和  
+新题  
+16.最接近的三数之和  
+https://leetcode.cn/problems/3sum-closest/  
