@@ -133,3 +133,8 @@ https://leetcode.cn/problems/subarray-sum-equals-k/
 https://leetcode.cn/problems/QTMn0o/  
 53.最大子数组和  
 https://leetcode.cn/problems/maximum-subarray/  
+### 10.23
+复习了
+297.二叉树的序列化与反序列化  
+53.最大子数组和  
+207.课程表  
