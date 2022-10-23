@@ -135,6 +135,6 @@ https://leetcode.cn/problems/QTMn0o/
 https://leetcode.cn/problems/maximum-subarray/  
 ### 10.23
 复习了
-297.二叉树的序列化与反序列化  
+297.二叉树的序列化与反序列化(BFS和DFS)  
 53.最大子数组和  
 207.课程表  
