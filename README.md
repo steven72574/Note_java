@@ -142,3 +142,6 @@ https://leetcode.cn/problems/maximum-subarray/
 新题  
 16.最接近的三数之和  
 https://leetcode.cn/problems/3sum-closest/  
+### 10.24
+277.搜寻名人（暴力解出来了，对这种题的逻辑很不擅长，要多练习）  
+https://leetcode.cn/problems/find-the-celebrity/  
