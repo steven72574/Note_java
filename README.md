@@ -151,3 +151,9 @@ https://leetcode.cn/problems/remove-duplicates-from-sorted-array/
 https://leetcode.cn/problems/longest-substring-without-repeating-characters/  
 170.两数之和III（数据结构设计）  
 https://leetcode.cn/problems/two-sum-iii-data-structure-design/  
+lintcode604.滑动窗口之和  
+https://www.lintcode.com/problem/604/  
+11.盛最多水的容器（回忆了一下做出来了）  
+https://leetcode.cn/problems/container-with-most-water/  
+165.比较版本修订号(题目比较难读，编码难度不难，注意字符串split("\\."))方法若是“.”的话要转义  
+https://leetcode.cn/problems/compare-version-numbers/  
