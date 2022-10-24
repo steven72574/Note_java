@@ -145,5 +145,9 @@ https://leetcode.cn/problems/3sum-closest/
 ### 10.24  
 277.搜寻名人（暴力解出来了，对这种题的逻辑很不擅长，要多练习）    
 https://leetcode.cn/problems/find-the-celebrity/  
-26.删除有序数组中的重复项  （做了1小时做出，时间复杂度O(n),1ms，双指针，核心是左右指针的移动条件）
-https://leetcode.cn/problems/remove-duplicates-from-sorted-array/  
+26.删除有序数组中的重复项  （做了1小时做出，时间复杂度O(n),1ms，双指针，核心是左右指针的移动条件）  
+https://leetcode.cn/problems/remove-duplicates-from-sorted-array/     
+3.无重复字符的最长子串（1h做出，一开始用集合，有特殊用例过不了，改hashmap,76ms击败10%）  
+https://leetcode.cn/problems/longest-substring-without-repeating-characters/  
+170.两数之和III（数据结构设计）  
+https://leetcode.cn/problems/two-sum-iii-data-structure-design/  
