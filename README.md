@@ -142,6 +142,8 @@ https://leetcode.cn/problems/maximum-subarray/
 新题  
 16.最接近的三数之和  
 https://leetcode.cn/problems/3sum-closest/  
-### 10.24
-277.搜寻名人（暴力解出来了，对这种题的逻辑很不擅长，要多练习）  
+### 10.24  
+277.搜寻名人（暴力解出来了，对这种题的逻辑很不擅长，要多练习）    
 https://leetcode.cn/problems/find-the-celebrity/  
+26.删除有序数组中的重复项  （做了1小时做出，时间复杂度O(n),1ms，双指针，核心是左右指针的移动条件）
+https://leetcode.cn/problems/remove-duplicates-from-sorted-array/  
