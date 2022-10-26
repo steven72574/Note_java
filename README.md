@@ -160,3 +160,7 @@ https://leetcode.cn/problems/compare-version-numbers/
 ### 10.26
 19.删除链表的倒数第N个节点(不到20min做出)  
 https://leetcode.cn/problems/remove-nth-node-from-end-of-list/  
+75.颜色分类(30min，题目要求一次遍历，答案太特殊，没太钻研)  
+https://leetcode.cn/problems/sort-colors/  
+82.删除排序链表中的重复元素（一开始差点被绕晕，后面自己画一下清晰很多）  
+https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/  
