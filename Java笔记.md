@@ -36,3 +36,21 @@ Boolean,Integer,Byte,Short,Long,Float,Double,Character;
         Collections.reverse(array);
 ```
       
+### 读取文件
+```java
+import java.util.Scanner;
+import java.io.File;
+        File f = new File("D:\\Data.txt");
+        Scanner sc = null;
+        try{
+            sc = new Scanner(f);
+        }catch(Exception e){
+        
+        }
+```
+### 获取程序执行时间
+
+```java
+long begin = System.currentTimeMillis();
+long end = System.currentTimeMillis();
+```
