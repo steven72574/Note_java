@@ -157,3 +157,6 @@ https://www.lintcode.com/problem/604/
 https://leetcode.cn/problems/container-with-most-water/  
 165.比较版本修订号(题目比较难读，编码难度不难，注意字符串split("\\."))方法若是“.”的话要转义  
 https://leetcode.cn/problems/compare-version-numbers/  
+### 10.26
+19.删除链表的倒数第N个节点(不到20min做出)  
+https://leetcode.cn/problems/remove-nth-node-from-end-of-list/  
