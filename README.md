@@ -166,3 +166,7 @@ https://leetcode.cn/problems/sort-colors/
 https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/  
 567.字符串的排序（做的比较烦，找时间再做一下）  
 https://leetcode.cn/problems/permutation-in-string/  
+121买卖股票最佳时机(另一种解法，非动态规划)  
+https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/  
+123.买卖股票最佳时机III(隔板法,力扣超时，lincode通过)  
+https://www.lintcode.com/problem/151/  
