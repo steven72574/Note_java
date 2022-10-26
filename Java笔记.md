@@ -38,8 +38,8 @@ Boolean,Integer,Byte,Short,Long,Float,Double,Character;
       
 ### 读取文件
 ```java
-import java.util.Scanner;
-import java.io.File;
+        import java.util.Scanner;
+        import java.io.File;
         File f = new File("D:\\Data.txt");
         Scanner sc = null;
         try{
