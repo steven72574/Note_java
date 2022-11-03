@@ -170,3 +170,7 @@ https://leetcode.cn/problems/permutation-in-string/
 https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/  
 123.买卖股票最佳时机III(隔板法,力扣超时，lincode通过)  
 https://www.lintcode.com/problem/151/  
+
+### 11.03
+394.字符串解码(做了一小时，解法有点忘了,还有优化空间)  
+https://leetcode.cn/problems/decode-string/submissions/
