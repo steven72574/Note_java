@@ -1,3 +1,6 @@
+## 怎么刷题
+1.讲义-打卡-讲义
+如果做题困难，看讲义
 # Note_java
 java刷题笔记
 ![WeChat Screenshot_20221010112117](https://user-images.githubusercontent.com/83968454/194834895-9dc0fa7e-c85b-4bf7-8261-5d35f1da6f61.png)
