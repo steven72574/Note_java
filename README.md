@@ -180,3 +180,19 @@ https://www.lintcode.com/problem/151/
 ### 11.03
 394.字符串解码(做了一小时，解法有点忘了,还有优化空间)  
 https://leetcode.cn/problems/decode-string/submissions/
+
+### 11.23
+复习了下面的题目
+77.组合
+https://leetcode.cn/problems/combinations/
+46.全排列
+https://leetcode.cn/problems/permutations/
+47.全排列II
+https://leetcode.cn/problems/permutations-ii/
+新题
+39.组合总和
+https://leetcode.cn/problems/combination-sum/
+78.子集
+https://leetcode.cn/problems/subsets/
+90.子集II
+https://leetcode.cn/problems/subsets-ii/
