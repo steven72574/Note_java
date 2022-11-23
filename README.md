@@ -181,7 +181,7 @@ https://www.lintcode.com/problem/151/
 394.字符串解码(做了一小时，解法有点忘了,还有优化空间)  
 https://leetcode.cn/problems/decode-string/submissions/
 
-### 11.23
+### 11.22
 复习了下面的题目
 77.组合
 https://leetcode.cn/problems/combinations/
@@ -189,10 +189,15 @@ https://leetcode.cn/problems/combinations/
 https://leetcode.cn/problems/permutations/
 47.全排列II
 https://leetcode.cn/problems/permutations-ii/
-新题
 39.组合总和
 https://leetcode.cn/problems/combination-sum/
 78.子集
 https://leetcode.cn/problems/subsets/
 90.子集II
 https://leetcode.cn/problems/subsets-ii/
+112.路径总和
+https://leetcode.cn/problems/path-sum/
+
+### 11.23
+104.二叉树最大深度
+https://leetcode.cn/problems/maximum-depth-of-binary-tree/
