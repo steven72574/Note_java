@@ -221,3 +221,74 @@ https://leetcode.cn/problems/course-schedule/
 https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/  
 129.求根节点到叶子节点的数字之和    
 https://leetcode.cn/problems/sum-root-to-leaf-numbers/  
+543.二叉树的直径（答案代码看不是很懂）  
+https://leetcode.cn/problems/diameter-of-binary-tree/  
+662.二叉树的最大宽度（答案看不是很懂）  
+https://leetcode.cn/problems/maximum-width-of-binary-tree/  
+113.路径总和II  
+https://leetcode.cn/problems/path-sum-ii/  
+小笔记:关于二叉树的dfs搜索，判断非空有两种方法，第一个是在去往左节点之前就进行非空判断，如下所示，第二种是，去左节点之后进行非空判断，这两种方法的path的位置不一样.方法二对于二叉树dfs来说更好，简洁，也更好书写  
+```java
+class Solution {
+    public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
+        
+        Deque<Integer> path = new ArrayDeque<>();
+        List<List<Integer>> paths = new ArrayList<>();
+        if(root == null) return paths;
+
+        path.offer(root.val);
+        dfs(root ,targetSum, root.val, path , paths);
+
+        return paths;
+    }
+
+    public void dfs(TreeNode root ,int targetSum, int curSum , Deque<Integer> path , List<List<Integer>> paths){
+
+        if(root.left == null && root.right == null && curSum == targetSum){
+            paths.add(new ArrayList<Integer>(path));
+            return;
+        }
+
+        if(root.left != null){
+            path.addLast(root.left.val);
+            dfs(root.left , targetSum ,curSum + root.left.val , path , paths);
+            path.removeLast();
+        }
+
+        if(root.right != null){
+            path.addLast(root.right.val);
+            dfs(root.right , targetSum ,curSum + root.right.val , path , paths);
+            path.removeLast();
+        }
+
+    }
+}
+```
+```java
+class Solution {
+    public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
+        
+        Deque<Integer> path = new ArrayDeque<>();
+        List<List<Integer>> paths = new ArrayList<>();
+        if(root == null) return paths;
+        dfs(root ,targetSum, 0, path , paths);
+        return paths;
+    }
+
+    public void dfs(TreeNode root ,int targetSum, int curSum , Deque<Integer> path , List<List<Integer>> paths){
+
+        if(root == null) return;
+
+        curSum += root.val;
+        path.offerLast(root.val);//加入路径
+        if(root.left == null && root.right ==null && curSum == targetSum){
+            paths.add(new ArrayList<Integer>(path));
+        }
+
+        dfs(root.left , targetSum , curSum , path , paths);
+        dfs(root.right , targetSum , curSum , path , paths);
+
+        path.removeLast();//弹出路径； 相当于当前节点左右节点遍历完之后，移除自己的值。做到了遍历与路径同步
+    }
+}
+```
