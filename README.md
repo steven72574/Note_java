@@ -292,3 +292,7 @@ class Solution {
     }
 }
 ```
+110.平衡二叉树（难度为简单）  
+https://leetcode.cn/problems/balanced-binary-tree/  
+98.验证二叉搜索树  
+https://leetcode.cn/problems/validate-binary-search-tree/  
