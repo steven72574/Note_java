@@ -215,3 +215,9 @@ https://leetcode.cn/problems/same-tree/
 https://leetcode.cn/problems/symmetric-tree/  
 207.课程表  
 https://leetcode.cn/problems/course-schedule/  
+
+### 11.24  
+297.二叉树的序列化与反序列化（DFS做的）  
+https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/  
+129.求根节点到叶子节点的数字之和    
+https://leetcode.cn/problems/sum-root-to-leaf-numbers/  
