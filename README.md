@@ -303,3 +303,6 @@ https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/
 https://leetcode.cn/problems/minimum-depth-of-binary-tree/  
 130.被围绕的区域  
 https://leetcode.cn/problems/surrounded-regions/  
+279.完全平方数（做了半个多小时，想用dfs，超时，看了解法 发现是dp或数学定理做，跳过）  
+https://leetcode.cn/problems/perfect-squares/  
+上午做的：9.15开始，复习1h，10：15-12：00 做三题  
