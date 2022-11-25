@@ -306,3 +306,4 @@ https://leetcode.cn/problems/surrounded-regions/
 279.完全平方数（做了半个多小时，想用dfs，超时，看了解法 发现是dp或数学定理做，跳过）  
 https://leetcode.cn/problems/perfect-squares/  
 上午做的：9.15开始，复习1h，10：15-12：00 做三题  
+下午看cs144课+做笔记，15:30开始-19：30
