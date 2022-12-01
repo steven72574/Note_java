@@ -317,8 +317,8 @@ https://leetcode.cn/problems/perfect-squares/
 34. 在排序数组中查找元素的第一个和最后一个位置  
 https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/  
 心得：  
-![WeChat Image_20221201235749](https://user-images.githubusercontent.com/83968454/205176650-30837162-787e-499f-9e1f-e6f608cdf6fa.jpg)
+![image](https://user-images.githubusercontent.com/83968454/205183714-42f7e69e-eb93-4c36-ac83-733fe093c984.png)  
 33. 搜索旋转排序数组  
 https://leetcode.cn/problems/search-in-rotated-sorted-array/submissions/  
 思路图解：  
-![image](https://user-images.githubusercontent.com/83968454/205183657-584a9cdf-f659-44f2-97dd-0e652cc550f7.png)
+![image](https://user-images.githubusercontent.com/83968454/205183657-584a9cdf-f659-44f2-97dd-0e652cc550f7.png)  
