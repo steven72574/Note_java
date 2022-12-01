@@ -314,7 +314,11 @@ https://leetcode.cn/problems/perfect-squares/
 晚上22：30-23：41，结构体案例。  
 
 ### 12.01
-34. 在排序数组中查找元素的第一个和最后一个位置
+34. 在排序数组中查找元素的第一个和最后一个位置  
 https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/  
 心得：  
 ![WeChat Image_20221201235749](https://user-images.githubusercontent.com/83968454/205176650-30837162-787e-499f-9e1f-e6f608cdf6fa.jpg)
+33. 搜索旋转排序数组  
+https://leetcode.cn/problems/search-in-rotated-sorted-array/submissions/  
+思路图解：  
+![image](https://user-images.githubusercontent.com/83968454/205183657-584a9cdf-f659-44f2-97dd-0e652cc550f7.png)
