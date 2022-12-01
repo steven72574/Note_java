@@ -312,3 +312,9 @@ https://leetcode.cn/problems/perfect-squares/
 ### 11-27
 上午复习一小时，下午14.30开始到19：30，5h学习b站c++，并做笔记，把面向对象之前的都看完，记录了c++与java的区别，收获颇丰。  
 晚上22：30-23：41，结构体案例。  
+
+### 12.01
+34. 在排序数组中查找元素的第一个和最后一个位置
+https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/  
+心得：  
+![WeChat Image_20221201235749](https://user-images.githubusercontent.com/83968454/205176650-30837162-787e-499f-9e1f-e6f608cdf6fa.jpg)
