@@ -341,3 +341,11 @@ https://leetcode.cn/problems/intersection-of-two-arrays/
 https://leetcode.cn/problems/koko-eating-bananas/   
 611.有效三角形个数（1h，一次提交通过。排序+二分。时间使用很高，双指针没太看懂。找时间看看）  
 https://leetcode.cn/problems/valid-triangle-number/submissions/   
+### 双指针用同向还是双向，关键看表达式，最终目的是，双指针一个使值变大一个使值变小，才有操作空间
+```java
+//假设i j k 代表数组索引且i < j < k,现求
+nums[k] + nums[j] > nums[i]
+//则用相向双指针，因为这样的话nums[k] 和nums[i]能一个控制增加，一个控制减少
+nums[k] - nums[j] > nums[i]
+//则用同向双指针
+```
