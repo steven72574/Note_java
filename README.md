@@ -335,3 +335,9 @@ https://leetcode.cn/problems/minimum-size-subarray-sum/
 https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/  
 35. 搜索插入位置（调试后一遍过，比较理解了，边界条件很多，注意考虑到）  
 https://leetcode.cn/problems/search-insert-position/  
+349.两个数组的交集（看了思路，没做）  
+https://leetcode.cn/problems/intersection-of-two-arrays/  
+875.875. 爱吃香蕉的珂珂（看不懂，没做）  
+https://leetcode.cn/problems/koko-eating-bananas/   
+611.有效三角形个数（1h，一次提交通过。排序+二分。时间使用很高，双指针没太看懂。找时间看看）  
+https://leetcode.cn/problems/valid-triangle-number/submissions/   
