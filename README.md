@@ -345,7 +345,9 @@ https://leetcode.cn/problems/valid-triangle-number/submissions/
 ```java
 //假设i j k 代表数组索引且i < j < k,现求
 nums[k] + nums[j] > nums[i]
-//则用相向双指针，因为这样的话nums[k] 和nums[i]能一个控制增加，一个控制减少
+//则用相向双指针，因为这样的话nums[k] 和nums[i]能一个控制增加，一个控制减少.
+//相向可以用while,使两双指针靠近
 nums[k] - nums[j] > nums[i]
 //则用同向双指针
+//同向则最好用for循环，遍历j，然后用while循环移动k
 ```
