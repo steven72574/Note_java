@@ -355,3 +355,7 @@ nums[k] - nums[j] > nums[i]
 https://leetcode.cn/problems/longest-substring-without-repeating-characters/  
 15.三数之和（自己写的模板很不错，多复习）  
 https://leetcode.cn/problems/3sum/  
+108. 将有序数组转换为二叉搜索树  
+https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/   
+392. 判断子序列  
+https://leetcode.cn/problems/is-subsequence/  
