@@ -351,3 +351,7 @@ nums[k] - nums[j] > nums[i]
 //则用同向双指针
 //同向则最好用for循环，遍历j，然后用while循环移动k
 ```
+3.无重复字符的最长子串  
+https://leetcode.cn/problems/longest-substring-without-repeating-characters/  
+15.三数之和（自己写的模板很不错，多复习）  
+https://leetcode.cn/problems/3sum/  
