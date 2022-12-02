@@ -314,6 +314,8 @@ https://leetcode.cn/problems/perfect-squares/
 晚上22：30-23：41，结构体案例。  
 
 ### 12.01
+到下午晚上19：30，学完c++面向对象，做了案例，功能没实现完，也有些bug，对虚函数，父类数组创建子类对象，c++的内存操作（稍微增进了解，知道了这个部分的麻烦程度，动不动就内存被占用），以及小系统开发，有进一步的了解。  
+笔记：https://github.com/steven72574/c-  
 34. 在排序数组中查找元素的第一个和最后一个位置  
 https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/  
 心得：  
