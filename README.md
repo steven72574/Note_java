@@ -322,3 +322,5 @@ https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-a
 https://leetcode.cn/problems/search-in-rotated-sorted-array/submissions/  
 思路图解：  
 ![image](https://user-images.githubusercontent.com/83968454/205183657-584a9cdf-f659-44f2-97dd-0e652cc550f7.png)  
+162. 寻找峰值  
+https://leetcode.cn/problems/find-peak-element/  
