@@ -367,3 +367,7 @@ https://leetcode.cn/problems/container-with-most-water/
 https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/  
 53. 最大子数组和  
 https://leetcode.cn/problems/maximum-subarray/  
+142.环形链表  
+https://leetcode.cn/problems/linked-list-cycle-ii/  
+148.排序链表（这个很重要，要看会）  
+https://leetcode.cn/problems/sort-list/  
