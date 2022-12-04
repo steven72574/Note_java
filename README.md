@@ -372,3 +372,5 @@ https://leetcode.cn/problems/maximum-subarray/
 https://leetcode.cn/problems/linked-list-cycle-ii/  
 148.排序链表（这个很重要，要看会）  
 https://leetcode.cn/problems/sort-list/  
+2.两数相加（模拟面试，边讲思路边做，一开始题意理解错了，做了1h才发现，后面题目意思理解透彻后，做了20min，做不出来，看了答案一个关键处理，自己做出来了。收获很大，这种精做题很锻炼人）   
+https://leetcode.cn/problems/add-two-numbers/  
