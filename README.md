@@ -372,10 +372,19 @@ https://leetcode.cn/problems/maximum-subarray/
 https://leetcode.cn/problems/linked-list-cycle-ii/  
 148.排序链表（这个很重要，要看会）  
 https://leetcode.cn/problems/sort-list/  
+### 12.04
+看了面试经验  
+278.第一个错误的版本  
+https://leetcode.cn/problems/first-bad-version/  
 2.两数相加（模拟面试，边讲思路边做，一开始题意理解错了，做了1h才发现，后面题目意思理解透彻后，做了20min，做不出来，看了答案一个关键处理，自己做出来了。收获很大，这种精做题很锻炼人）   
 https://leetcode.cn/problems/add-two-numbers/  
+### 12.05
 31.下一个排列(看完答案后，自己写出来)  
 https://leetcode.cn/problems/next-permutation/  
 48.旋转图像（开始没思路，想整行换，但是后来在图中推导出规律，coding解决）  
 https://leetcode.cn/problems/rotate-image/  
-![image](https://user-images.githubusercontent.com/83968454/205697114-b1071c59-512a-4675-a617-c8f9154127fc.png)
+![image](https://user-images.githubusercontent.com/83968454/205697114-b1071c59-512a-4675-a617-c8f9154127fc.png)  
+49. 字母异位词分组  
+https://leetcode.cn/problems/group-anagrams/  
+22.括号生成  
+https://leetcode.cn/problems/generate-parentheses/  
