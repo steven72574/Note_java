@@ -388,3 +388,5 @@ https://leetcode.cn/problems/rotate-image/
 https://leetcode.cn/problems/group-anagrams/  
 22.括号生成  
 https://leetcode.cn/problems/generate-parentheses/  
+136. 只出现一次的数字  
+https://leetcode.cn/problems/single-number/  
