@@ -390,3 +390,10 @@ https://leetcode.cn/problems/group-anagrams/
 https://leetcode.cn/problems/generate-parentheses/  
 136. 只出现一次的数字  
 https://leetcode.cn/problems/single-number/  
+
+### 12.08
+火车进站（对dfs有更深的理解，晚上死活答案不对，后面发现是入站火车回溯错了）  
+https://www.nowcoder.com/practice/97ba57c35e9f4749826dc3befaeae109?tpId=37&tqId=21300&rp=1&ru=/exam/oj/ta&qru=/exam/oj/ta&sourceUrl=%2Fexam%2Foj%2Fta%3Fdifficulty%3D3%26page%3D1%26pageSize%3D50%26search%3D%26tpId%3D37%26type%3D37&difficulty=3&judgeStatus=undefined&tags=&title=  
+心得：  
+DFS画出图就画出了dfs函数主体，记得条件判断（满足什么条件能向左子树走，满足什么条件能向右子树走），用path记录结果，path可以是字符串，动态数组等等，记得回溯操作，若用字符串则在
+调用的时候dfs（path + val）,则不用回溯，因为path + val不会改变path的值，而是相当于创建了一个新的变量。
